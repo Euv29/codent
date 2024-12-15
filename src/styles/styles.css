@@ -23,6 +23,8 @@ body {
     color: var(--color-text);
 }
 
+
+
 #spaceCanvas {
     position: fixed;
     top: 0;
@@ -106,6 +108,14 @@ body {
 
 .img-floating {
     animation: float 3s ease-in-out infinite;
+}
+
+.text-secondary{
+    color: var(--color-secondary);
+}
+
+.text-tertiary{
+    color: var(--color-tertiary);
 }
 
 
